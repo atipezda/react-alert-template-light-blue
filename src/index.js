@@ -1,9 +1,9 @@
 import React from 'react'
 
 const alertStyle = {
-  backgroundColor: '#333333',
-  color: 'white',
-  borderRadius: '2px',
+  backgroundColor: '#FFFFFF',
+  color: '#00aef0',
+  border: '2px solid #00aef0'
   display: 'flex',
   justifyContent: 'space-between',
   alignItems: 'center',
